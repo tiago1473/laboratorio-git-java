@@ -2,9 +2,10 @@ package com.laboratorio;
 
 public class estudiante {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	private String nombre;
+	private int edad;
 
+	public estudiante (String nombre, int edad){
+		
 	}
-
 }
