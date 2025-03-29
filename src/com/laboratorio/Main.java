@@ -7,5 +7,9 @@ public class Main {
 		System.out.println("Bienvenidos al laboratorio de Git con Java");
 
 	}
+	
+	public String mensajeNuevo() {
+		return "Hola Nuevamente, modifico a melisa";
+	}
 
 }
